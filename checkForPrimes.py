@@ -8,4 +8,4 @@ def checkForPrimes(value):
             break
         elif n == value-1:
             print(value,"is prime")     
-checkForPrimes(17)
+checkForPrimes(177)
